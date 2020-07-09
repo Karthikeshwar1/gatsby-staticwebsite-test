@@ -1,3 +1,5 @@
+**Note :** The following are the default contents of the README file that comes when a basic gatsby static web app is created.
+
 <!-- AUTO-GENERATED-CONTENT:START (STARTER) -->
 <p align="center">
   <a href="https://www.gatsbyjs.org">
